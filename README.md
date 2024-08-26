@@ -1,19 +1,26 @@
-# Abdul Renish R - Software Architect
+Abdul Renish R
 
-Experienced in Java, Spring Boot, AWS, and Node.js with 20 years in software development.
+Software Architect | 20+ Years of Diverse Software Development Experience
 
-## 🛠️ Skills
-- **Languages:** Java, JavaScript, Python
-- **Frameworks:** Spring Boot, Node.js, React
-- **DevOps:** AWS, Docker, Kubernetes
+With a foundation in C#, VB.NET, Perl, ASP, and extensive experience in Java, Spring Boot, AWS, Node.js, Angular, React, Camunda, I excel in designing and implementing cloud-native, scalable applications. My academic background in B.Tech Chemical Engineering fuels a unique approach to problem-solving in software architecture.
+🛠️ Technical Expertise
 
-## 📂 Key Projects
-- [Project 1](link): Description and tech stack.
-- [Project 2](link): Description and tech stack.
+    Backend: Java, Spring Boot, Node.js, Camunda, C#, VB.NET, Perl, ASP
+    Frontend: Angular, React
+    Cloud & DevOps: AWS, Docker, ECS, SQS, Lambda
+    Architecture: Microservices, REST APIs, BPMN
+    Exploring: ML/AI, Flutter
 
-## 🎓 Education & Certifications
-- MS in Computer Science
-- AWS Certified Solutions Architect
+🌟 Key Projects
 
-## 📫 Contact
-- [LinkedIn](your-link) | [Email](mailto:your-email)
+    Benayat: A government real estate management platform for Bahrain, utilizing Spring Boot, Angular, and AWS services.
+
+📚 Current Focus
+
+    Advancing in Flutter, ML/AI, and modern software architecture.
+
+🌐 Connect and Explore More
+
+    LinkedIn
+    Blog
+    Blogger Profile
