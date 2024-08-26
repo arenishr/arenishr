@@ -12,7 +12,9 @@ With a foundation in **C#, VB.NET, Perl, ASP**, and extensive experience in **Ja
 - **Exploring:** ML, AI, Data Analytics, Modern Architecture
 
 ## 🌟 Key Projects
-- [Benayat](https://www.benayat.bh/): A government real estate management platform for Bahrain, utilizing Spring Boot, Angular, and AWS services.
+- [Benayat](https://www.benayat.bh/): A government building permit workflow platform for Bahrain, utilizing Spring Boot, Angular, nodejs and AWS services.
+- [Tasareeh]: 10 microservices and a general frontend for ministries of Bahrain for the workflow management of Planning, GSN, Benayat services
+- [Wayleave] : National Project for the approval system for excavation and wayleave permits
 
 ## 📚 Current Focus
 - Advancing in ML, AI, Data Analytics, and modern software architecture.
