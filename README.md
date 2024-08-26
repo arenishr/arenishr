@@ -1,16 +1,19 @@
-## Hi there 👋
+# Abdul Renish R - Software Architect
 
-<!--
-**arenishr/arenishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced in Java, Spring Boot, AWS, and Node.js with 20 years in software development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Java, JavaScript, Python
+- **Frameworks:** Spring Boot, Node.js, React
+- **DevOps:** AWS, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Key Projects
+- [Project 1](link): Description and tech stack.
+- [Project 2](link): Description and tech stack.
+
+## 🎓 Education & Certifications
+- MS in Computer Science
+- AWS Certified Solutions Architect
+
+## 📫 Contact
+- [LinkedIn](your-link) | [Email](mailto:your-email)
